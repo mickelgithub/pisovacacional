@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "335394340402",
+    "firebase_url": "https://tu-piso-vacacional-49d99.firebaseio.com",
+    "project_id": "tu-piso-vacacional-49d99",
+    "storage_bucket": "tu-piso-vacacional-49d99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335394340402:android:65155f6991b2f574",
+        "android_client_info": {
+          "package_name": "com.android.cursos.practica.tupisovacacional"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335394340402-6csts4d32plv1fuooqg6pqhab0u5dcsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.cursos.practica.tupisovacacional",
+            "certificate_hash": "3C18670FFA4A29FA0C164CDDC74F930C9F8F6155"
+          }
+        },
+        {
+          "client_id": "335394340402-o2ooiqq5kj0b0b3jo5di42m1e43mmjq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9PRS26dpaMM4OMI55CvTFT4Db-JZU0F4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335394340402-o2ooiqq5kj0b0b3jo5di42m1e43mmjq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
